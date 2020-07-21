@@ -1,7 +1,6 @@
 #include "byte_stream.hh"
 
 #include <algorithm>
-#include <iostream>
 #include <iterator>
 #include <stdexcept>
 
